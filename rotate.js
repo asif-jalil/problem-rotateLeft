@@ -21,5 +21,5 @@ function rotateLeftByOne(arr, n) {
   arr[n - 1] = temp;
 }
 
-let arr = [1, 2, 3, 4, 5];
-rotateLeft(5, 2, arr);
+// const arr = [1, 2, 3, 4, 5];
+// rotateLeft(5, 4, arr);
